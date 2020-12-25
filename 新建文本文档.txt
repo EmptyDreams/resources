@@ -1,4 +1,0 @@
-@cmd
-@git add .
-@git commit "new"
-@git push
