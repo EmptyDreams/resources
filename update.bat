@@ -1,4 +1,6 @@
+@echo off
 @git add .
 @git commit -m "new"
 @git push
-pause >> 上传完毕
+echo 上传完毕
+pause>nul
