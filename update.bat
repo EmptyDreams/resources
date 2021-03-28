@@ -1,6 +1,5 @@
 @echo off
-@git add .
-@git commit -m "new"
-@git push
-echo ÉÏ´«Íê±Ï
+call bat/add.bat
+call bat/commit.bat
+call bat/push.bat
 pause>nul
